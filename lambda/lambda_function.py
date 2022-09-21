@@ -38,10 +38,10 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'http://radio.truckers.fm',
     "metadata": {
-      "title": 'Dabble Radio',
-      "subtitle": 'A subtitle for dabble radio',
+      "title": 'Schelas Radio',
+      "subtitle": 'A subtitle for schelas radio',
       "art": {
         "sources": [
           {

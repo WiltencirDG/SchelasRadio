@@ -2,99 +2,31 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
+        "pt-BR": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
+            "Alexa open Schelas Radio",
+            "Alexa start Schelas Radio",
+            "Alexa launch Schelas Radio"
           ],
           "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
+            "schelas",
+            "radio",
+            "test"
           ],
-          "name": "Template Three - Radio Streaming Skill Example",
+          "name": "Radio Streaming Skill",
           "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
-        },
-        "en-CA": {
-          "summary": "Sample Short Description",
-          "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
-          ],
-          "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
-          ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
-        },
-        "en-IN": {
-          "summary": "Sample Short Description",
-          "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
-          ],
-          "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
-          ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
-        },
-        "en-AU": {
-          "summary": "Sample Short Description",
-          "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
-          ],
-          "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
-          ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
-        },
-        "en-GB": {
-          "summary": "Sample Short Description",
-          "examplePhrases": [
-            "Alexa open template three",
-            "Alexa start template three",
-            "Alexa launch template three"
-          ],
-          "keywords": [
-            "keyword1",
-            "keyword2",
-            "keyword3"
-          ],
-          "name": "Template Three - Radio Streaming Skill Example",
-          "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+          "smallIconUri": "file://assets/images/pt-BR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/pt-BR_largeIconUri.png"
         }
       },
       "automaticDistribution": {
         "isActive": false
       },
-      "isAvailableWorldwide": true,
+      "isAvailableWorldwide": false,
       "testingInstructions": "No special instructions.",
       "category": "EDUCATION_AND_REFERENCE",
-      "distributionCountries": []
+      "distributionCountries": ["Brazil"]
     },
     "apis": {
       "custom": {
