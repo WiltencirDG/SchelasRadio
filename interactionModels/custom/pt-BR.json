@@ -1,7 +1,7 @@
 {
     "interactionModel": {
       "languageModel": {
-        "invocationName": "truckersfm",
+        "invocationName": "schelas radio",
         "intents": [
           {
             "name": "AMAZON.NavigateHomeIntent",
