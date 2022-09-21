@@ -38,10 +38,10 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'http://radio.truckers.fm',
+    "url": 'https://radio.truckers.fm',
     "metadata": {
       "title": 'Schelas Radio',
-      "subtitle": 'A subtitle for schelas radio',
+      "subtitle": 'A Schelas radio',
       "art": {
         "sources": [
           {
