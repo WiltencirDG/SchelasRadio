@@ -61,7 +61,7 @@
     "privacyAndCompliance": {
       "allowsPurchases": false,
       "locales": {
-        "en-US": {
+        "pt-BR": {
           "termsOfUseUrl": "http://dabblelab.com/terms",
           "privacyPolicyUrl": "http://dabblelab.com/privacy"
         },
